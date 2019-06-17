@@ -1,0 +1,15 @@
+"","Brush_teeth","Climb_stairs","Comb_hair","Descend_stairs","Drink_glass","Eat_meat","Eat_soup","Getup_bed","Liedown_bed","Pour_water","Sitdown_chair","Standup_chair","Use_telephone","Walk"
+"Brush_teeth",4,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Climb_stairs",0,29,0,7,0,0,0,0,0,0,0,0,0,2
+"Comb_hair",0,0,7,0,0,0,0,0,0,0,0,0,1,0
+"Descend_stairs",0,1,0,5,0,0,0,0,0,0,0,0,0,1
+"Drink_glass",0,2,3,0,33,0,0,0,0,0,1,0,2,0
+"Eat_meat",0,0,0,0,0,2,0,0,0,0,0,0,0,0
+"Eat_soup",0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Getup_bed",0,0,0,0,0,0,0,22,2,0,2,5,0,0
+"Liedown_bed",0,0,0,0,0,0,0,4,3,0,0,0,0,0
+"Pour_water",0,0,1,0,1,0,0,1,0,33,0,1,1,0
+"Sitdown_chair",0,1,0,0,0,0,0,1,2,1,26,5,0,1
+"Standup_chair",0,1,0,0,0,0,0,6,3,0,5,23,0,0
+"Use_telephone",0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Walk",0,0,0,2,0,0,0,0,0,0,0,0,0,30
