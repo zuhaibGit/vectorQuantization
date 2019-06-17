@@ -1,5 +1,7 @@
 # vectorQuantization
 
+Machine learning. An implementation of normalizing variable-length data. The data set used was the UC Irvine Accleromter dataset. I wanted to classify an activity based on its acceleromter data. So to train the computer, I had to give the computer vectors representing each activity, where each vector was supposed to be the same length. But the data in the dataset was not of the same length. So this code normalizes the length for each vector corresponding to each activity. Then a classifier is used to train the computer. This assignment is based off of a course offered at the University of Illinois, AML 498. The assignment can be found at https://courses.engr.illinois.edu/cs498aml/sp2019/homeworks/homework5.html
+
 # Problems
 Obtain the actitivities of daily life dataset from the UC Irvine machine learning website (https://archive.ics.uci.edu/ml/datasets/Dataset+for+ADL+Recognition+with+Wrist-worn+Accelerometer, data provided by Barbara Bruno, Fulvio Mastrogiovanni and Antonio Sgorbissa). Ignore the directories with MODEL in the name. They are duplicates.
 
